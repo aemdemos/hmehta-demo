@@ -143,6 +143,36 @@
     },
     {
       "path": "tools/importer/mappings/gallery/qantas-selects-airbus-as-preferred-aircraft-for-domestic-fleet-renewal.json"
+    },
+    {
+      "path": "tools/importer/mappings/roo-tales-topic/737.json"
+    },
+    {
+      "path": "tools/importer/mappings/featured/statement-on-domestic-airfares.json"
+    },
+    {
+      "path": "tools/importer/mappings/uncategorized/boeing-747-domestic-services.json"
+    },
+    {
+      "path": "tools/importer/mappings/qantas-responds/fact-sheet-setting-the-record-straight-on-sydney-airport-slots.json"
+    },
+    {
+      "path": "tools/importer/mappings/sitemap.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/speaker-requests.json"
+    },
+    {
+      "path": "tools/importer/mappings/media-releases-signup.json"
+    },
+    {
+      "path": "tools/importer/mappings/links.json"
+    },
+    {
+      "path": "tools/importer/mappings/social-hub.json"
+    },
+    {
+      "path": "tools/importer/mappings/topics.json"
     }
   ]
 }
