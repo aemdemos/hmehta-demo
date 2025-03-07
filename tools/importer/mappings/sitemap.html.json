@@ -1,0 +1,62 @@
+{
+  "url": "https://www.qantasnewsroom.com.au/sitemap.html",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/h1[1]\n  /html[1]/body[1]/div[1]\n  /html[1]/body[1]/div[2]/table[1]\n  /html[1]/body[1]/div[3]",
+    "hash": -760318435
+  },
+  "pageHeight": 6362,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/sitemap",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id--1102402302",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1244,
+              "height": 122,
+              "xpath": "/html[1]/body[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 18,
+              "y": 55,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-2bqvj4-1102402302"
+            },
+            {
+              "id": "box-id--686764409",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 472,
+              "height": 6146,
+              "xpath": "/html[1]/body[1]/div[2]/table[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 8,
+              "y": 187,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-2bqvj4-686764409"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

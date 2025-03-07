@@ -1,0 +1,135 @@
+{
+  "url": "https://www.qantasnewsroom.com.au/uncategorized/boeing-747-domestic-services/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[2]\n  - /html[1]/body[1]/div[2]/div[1]\n  - /html[1]/body[1]/div[2]/div[2]\n  /html[1]/body[1]/div[3]/header[1]\n  - /html[1]/body[1]/div[3]/header[1]/div[1]/div[1]/a[1]\n  - /html[1]/body[1]/div[3]/header[1]/div[1]/nav[1]/ul[1]\n  /html[1]/body[1]/div[3]/div[1]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[3]\n  /html[1]/body[1]/div[3]/div[1]/div[2]\n  /html[1]/body[1]/footer[1]",
+    "hash": 1443184425
+  },
+  "pageHeight": 913,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/uncategorized/boeing-747-domestic-services/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-2089301035",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1200,
+              "height": 83,
+              "xpath": "/html[1]/body[1]/div[3]/header[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/header[1]/div[1]/div[1]/a[1]",
+                  "xpathWithDetails": "/html[@class=\"wf-europa-n7-active wf-europa-n3-active wf-europa-n4-active wf-active\"]/body[@class=\"post-template-default single single-post postid-7248 single-format-standard\"]/div[@class=\"container\"]/div[@class=\"header-nav\"]/div[@class=\"nav-collapse\"]/a[@class=\"logo\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/header[1]/div[1]/nav[1]/ul[1]",
+                  "xpathWithDetails": "/html[@class=\"wf-europa-n7-active wf-europa-n3-active wf-europa-n4-active wf-active\"]/body[@class=\"post-template-default single single-post postid-7248 single-format-standard\"]/div[@class=\"container\"]/div[@class=\"header-nav\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 40,
+              "y": 157,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-s5kh29-2089301035"
+            },
+            {
+              "id": "box-id--83237627",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 80,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 285,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-s5kh29-83237627"
+            },
+            {
+              "id": "box-id--1467159295",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 315,
+              "height": 38,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 33,
+              "y": 383,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-s5kh29-1467159295"
+            },
+            {
+              "id": "box-id--83237596",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 49,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 385,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-s5kh29-83237596"
+            },
+            {
+              "id": "box-id--83237565",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 1221,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 434,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-s5kh29-83237565"
+            },
+            {
+              "id": "box-id-2039097791",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 381,
+              "height": 75,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 858,
+              "y": 240,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-s5kh29-2039097791"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
